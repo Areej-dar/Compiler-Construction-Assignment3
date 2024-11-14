@@ -8,11 +8,6 @@ This Python script extracts data from an XML file and saves it in an Excel forma
 - **Data Shuffling**: Randomizes the order of book entries.
 - **Excel Export**: Saves the extracted data into an Excel file with proper headers.
 
-🛠️ Technologies Used
-Python: Core programming language
-ElementTree: For XML parsing
-OpenPyXL: For Excel file creation
-
 ## 💻 How to Run
 
 Ensure you have **Python** installed, and then install the required library:
