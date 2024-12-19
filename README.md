@@ -13,7 +13,7 @@ This Python script extracts data from an XML file and saves it in an Excel forma
 Ensure you have **Python** installed, and then install the required library:
 
 ```bash
-pip install openpyxl
+pip install openpyxl```
 
 Place your compiler.xml file in the same directory and run the script:
 python xml_to_excel.py
